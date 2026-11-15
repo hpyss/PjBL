@@ -7,8 +7,8 @@ Selamat datang di repositori resmi tugas praktikum mata kuliah **Praktik Basis D
 ## 👥 Tim Penyusun (Kelompok 5 - RKPL)
 **Program Studi D4 Teknologi Rekayasa Perangkat Lunak — Politeknik Negeri Madiun**
 
-| No. | Nama Mahasiswa | NIM | Peran / Fokus |
-| :---: | :--- | :---: | :--- |
+| No. | Nama Mahasiswa | NIM | 
+| :---: | :--- | :---: | 
 | 1 | **Anisa Latifatul Rohma** | 264311035 | 
 | 2 | **Muhammad Amirul Hafidz** | 264311048 | 
 | 3 | **Sakhiya Azam Khoirunni'am** | 264311058 | 
