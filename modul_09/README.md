@@ -1,8 +1,11 @@
 ﻿# Modul 09: Redundansi Data dan Denormalisasi Basis Data
 
-**Mata Kuliah:** Praktik Basis Data  
-**Proyek:** Sistem Informasi Manajemen Pemeliharaan Aset Kampus (SIMPAK)  
-**Mahasiswa:** Muhammad Amirul Hafidz (264311048) - Kelas 1B TRPL  
+**Mata Kuliah:** Praktik Basis Data (Integrasi PjBL RKPL)  
+**Sistem:** Sistem Informasi Manajemen Pemeliharaan Aset Kampus (SIMPAK)  
+**Kelompok 5 (Kelas 1B TRPL):**
+1. Anisa Latifatul Rohma (264311035)
+2. Muhammad Amirul Hafidz (264311048)
+3. Sakhiya Azam Khoirunni'am (264311058)
 
 ## Isi Berkas
 - `modul9_denormalisasi_aset.sql`: Skrip SQL implementasi denormalisasi terencana pada tabel aset (kolom akumulasi total biaya pemeliharaan).

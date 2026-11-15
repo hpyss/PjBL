@@ -1,8 +1,11 @@
 ﻿# Modul 11: Perkembangan DBMS dan Lingkup Penerapan Basis Data
 
-**Mata Kuliah:** Praktik Basis Data  
-**Proyek:** Sistem Informasi Manajemen Pemeliharaan Aset Kampus (SIMPAK)  
-**Mahasiswa:** Muhammad Amirul Hafidz (264311048) - Kelas 1B TRPL  
+**Mata Kuliah:** Praktik Basis Data (Integrasi PjBL RKPL)  
+**Sistem:** Sistem Informasi Manajemen Pemeliharaan Aset Kampus (SIMPAK)  
+**Kelompok 5 (Kelas 1B TRPL):**
+1. Anisa Latifatul Rohma (264311035)
+2. Muhammad Amirul Hafidz (264311048)
+3. Sakhiya Azam Khoirunni'am (264311058)
 
 ## Isi Berkas
 - `db_simpak tambahan.sql`: Skrip DDL/DML lengkap tabel relasi master, laporan perbaikan, dan detail biaya pemeliharaan.
