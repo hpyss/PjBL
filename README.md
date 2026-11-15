@@ -9,9 +9,9 @@ Selamat datang di repositori resmi tugas praktikum mata kuliah **Praktik Basis D
 
 | No. | Nama Mahasiswa | NIM | Peran / Fokus |
 | :---: | :--- | :---: | :--- |
-| 1 | **Anisa Latifatul Rohma** | 264311035 | Requirement & Database Analyst |
-| 2 | **Muhammad Amirul Hafidz** | 264311048 | Database Administrator & Query Engineer |
-| 3 | **Sakhiya Azam Khoirunni'am** | 264311058 | System & Technical Documentator |
+| 1 | **Anisa Latifatul Rohma** | 264311035 | 
+| 2 | **Muhammad Amirul Hafidz** | 264311048 | 
+| 3 | **Sakhiya Azam Khoirunni'am** | 264311058 | 
 
 - **Kelas:** 1B - D4 Teknologi Rekayasa Perangkat Lunak (TRPL)
 - **Nama Proyek:** Sistem Informasi Manajemen Pemeliharaan Aset Kampus (**SIMPAK / SIM-PAK**)
